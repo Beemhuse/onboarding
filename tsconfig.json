@@ -19,11 +19,7 @@
       }
     ],
     "paths": {
-      "@/*": ["./src/*"],
-      "@ogle/auth": ["../../packages/auth"],
-      "@ogle/db": ["../../packages/db"],
-      "@ogle/ui": ["../../packages/ui"],
-      "@ogle/types": ["../../packages/types"]
+      "@/*": ["./src/*"]
     }
   },
   "include": [
